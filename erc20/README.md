@@ -1,0 +1,1 @@
+A sample ERC20 contract, with a big surprise. A naive user has deposited 0.5 Ether in this contract, and it's your job to make it yours. Your attack will have succeeded when the contract's balance falls below this initial 0.5ETH.
